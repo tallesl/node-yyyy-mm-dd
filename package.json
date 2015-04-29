@@ -3,10 +3,10 @@
   "bugs": {
     "url": "https://github.com/tallesl/yyyy-mm-dd/issues"
   },
-  "dependencies": {
+  "description": "formats a js' Date in yyyy-MM-dd format",
+  "devDependencies": {
     "mocha": "^2.1.0"
   },
-  "description": "formats a js' Date in yyyy-MM-dd format",
   "directories": {
     "lib": "./lib",
     "test": "./test"
