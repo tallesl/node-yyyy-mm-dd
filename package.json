@@ -1,19 +1,15 @@
 {
   "author": "Talles L <talleslasmar@gmail.com>",
   "bugs": {
-    "url": "https://github.com/tallesl/yyyy-mm-dd/issues"
+    "url": "https://github.com/tallesl/node-yyyy-mm-dd/issues"
   },
-  "description": "formats a js' Date in yyyy-MM-dd format",
+  "description": "Formats a Date as yyyy-MM-dd.",
   "devDependencies": {
-    "coveralls": "^2.11.2",
-    "istanbul": "^0.3.5",
-    "mocha": "^2.1.0"
+    "coveralls": "^2.11.4",
+    "istanbul": "^0.4.1",
+    "mocha": "^2.3.4",
+    "standard": "^5.4.1"
   },
-  "directories": {
-    "lib": "./lib",
-    "test": "./test"
-  },
-  "homepage": "https://github.com/tallesl/yyyy-mm-dd",
   "keywords": [
     "8601",
     "Date",
@@ -22,14 +18,13 @@
     "yyyy-mm-dd"
   ],
   "license": "Fair",
-  "main": "./lib/yyyy-mm-dd.js",
   "name": "yyyy-mm-dd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tallesl/yyyy-mm-dd.git"
+    "url": "https://github.com/tallesl/node-yyyy-mm-dd.git"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "standard && mocha"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
