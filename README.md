@@ -4,6 +4,7 @@
 [![][coverage-img]][coverage]
 [![][dependencies-img]][dependencies]
 [![][devdependencies-img]][devdependencies]
+[![][version-img]][version]
 
 [![][npm-img]][npm]
 
@@ -25,14 +26,14 @@ undefined
 '1999-01-01'
 ```
 
-[build]:               https://travis-ci.org/tallesl/yyyy-mm-dd
-[build-img]:           https://travis-ci.org/tallesl/yyyy-mm-dd.png
-[coverage]:            https://coveralls.io/r/tallesl/yyyy-mm-dd?branch=master
-[coverage-img]:        https://coveralls.io/repos/tallesl/yyyy-mm-dd/badge.png?branch=master
-[dependencies]:        https://david-dm.org/tallesl/yyyy-mm-dd
-[dependencies-img]:    https://david-dm.org/tallesl/yyyy-mm-dd.png
-[devdependencies]:     https://david-dm.org/tallesl/yyyy-mm-dd#info=devDependencies
-[devDependencies-img]: https://david-dm.org/tallesl/yyyy-mm-dd/dev-status.png
+[build]:               https://travis-ci.org/tallesl/node-yyyy-mm-dd
+[build-img]:           https://travis-ci.org/tallesl/node-yyyy-mm-dd.png
+[coverage]:            https://coveralls.io/r/tallesl/node-yyyy-mm-dd?branch=master
+[coverage-img]:        https://coveralls.io/repos/tallesl/node-yyyy-mm-dd/badge.png?branch=master
+[dependencies]:        https://david-dm.org/tallesl/node-yyyy-mm-dd
+[dependencies-img]:    https://david-dm.org/tallesl/node-yyyy-mm-dd.png
+[devdependencies]:     https://david-dm.org/tallesl/node-yyyy-mm-dd#info=devDependencies
+[devDependencies-img]: https://david-dm.org/tallesl/node-yyyy-mm-dd/dev-status.png
 [version]:             http://badge.fury.io/js/yyyy-mm-dd
 [version-img]:         https://badge.fury.io/js/yyyy-mm-dd.png
 [npm]:                 https://nodei.co/npm/yyyy-mm-dd
