@@ -6,8 +6,6 @@
 [![][devdependencies-img]][devdependencies]
 [![][version-img]][version]
 
-[![][npm-img]][npm]
-
 Formats a Date as yyyy-MM-dd.
 
 ## Usage
@@ -34,7 +32,5 @@ undefined
 [dependencies-img]:    https://david-dm.org/tallesl/node-yyyy-mm-dd.png
 [devdependencies]:     https://david-dm.org/tallesl/node-yyyy-mm-dd#info=devDependencies
 [devDependencies-img]: https://david-dm.org/tallesl/node-yyyy-mm-dd/dev-status.png
-[version]:             http://badge.fury.io/js/yyyy-mm-dd
+[version]:             https://npmjs.com/package/yyyy-mm-dd
 [version-img]:         https://badge.fury.io/js/yyyy-mm-dd.png
-[npm]:                 https://nodei.co/npm/yyyy-mm-dd
-[npm-img]:             https://nodei.co/npm/yyyy-mm-dd.png?mini=true
