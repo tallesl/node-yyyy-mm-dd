@@ -5,10 +5,10 @@
   },
   "description": "Formats a Date as yyyy-MM-dd.",
   "devDependencies": {
-    "coveralls": "^2.11.4",
-    "istanbul": "^0.4.1",
-    "mocha": "^2.3.4",
-    "standard": "^5.4.1"
+    "coveralls": "^2.11.9",
+    "istanbul": "^0.4.3",
+    "mocha": "^2.5.3",
+    "standard": "^7.1.2"
   },
   "keywords": [
     "8601",
